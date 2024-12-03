@@ -61,9 +61,9 @@
 <!-- <hr style="width: 100%;"> -->
 <hr style="margin: 30px 0; border: 1px solid #ccc;" />
 <br clear="both">
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeiJunio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" style="width: 50%;" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiJunio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" style="width: 50%;" alt="languages graph"  />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeiJunio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiJunio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
 </div>
 
 ###
