@@ -1,4 +1,4 @@
-<h1 align="left" style="margin: 30px 0; border-bottom: 1px solid #ccc;">👋 Olá! Eu sou Nei Junio Nogueira Gomes</h1>
+<h1 align="left">👋 Olá! Eu sou Nei Junio Nogueira Gomes</h1>
 
 ###
 
@@ -7,8 +7,8 @@
 <p align="left">Atuar na área de tecnologia, com foco no desenvolvimento de sistemas computacionais e interfaces web. Meu objetivo é contribuir no levantamento de requisitos e no desenvolvimento de soluções eficientes e de alta qualidade, utilizando minhas habilidades em programação, modelagem de banco de dados e resolução de problemas técnicos.</p>
 
 ###
-<!-- <hr style="width: 100%;"> -->
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+<hr style="width: 100%;">
+<!-- <hr style="margin: 30px 0; border: 1px solid #ccc;" /> -->
 <h3 align="left">🛠️ Habilidades Técnicas</h3>
 
 <ul>
@@ -20,8 +20,8 @@
 
 ###
 
-<!-- <hr style="width: 100%;"> -->
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+<hr style="width: 100%;">
+<!-- <hr style="margin: 30px 0; border: 1px solid #ccc;" /> -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"  />
   <img width="12" />
@@ -45,8 +45,8 @@
 </div>
 
 ###
-<!-- <hr style="width: 100%;"> -->
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+<hr style="width: 100%;">
+<!-- <hr style="margin: 30px 0; border: 1px solid #ccc;" /> -->
 <h3 align="left">🤝 Habilidades Interpessoais</h3>
 
 <ul>
@@ -58,8 +58,8 @@
 
 ###
 
-<!-- <hr style="width: 100%;"> -->
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+<hr style="width: 100%;">
+<!-- <hr style="margin: 30px 0; border: 1px solid #ccc;" /> -->
 <br clear="both">
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=NeiJunio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
@@ -67,8 +67,8 @@
 </div>
 
 ###
-<!-- <hr style="width: 100%;"> -->
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+<hr style="width: 100%;">
+<!-- <hr style="margin: 30px 0; border: 1px solid #ccc;" /> -->
 <h3 align="left">📫 Contato</h3>
 
 <ul>
