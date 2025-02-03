@@ -22,6 +22,7 @@
 
 <!-- <hr style="width: 100%;"> -->
 <hr style="margin: 30px 0;" />
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"  />
   <img width="12" />
@@ -42,6 +43,20 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Vscode"  />
+  
+</div>
+
+###
+
+<div align="center">
+  <h4 align="center">📚 Em Aprendizado: </h3>
+
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Csharp"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"  />
+
 </div>
 
 ###
