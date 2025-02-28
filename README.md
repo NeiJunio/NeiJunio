@@ -44,6 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Vscode"  />
   
+  
 </div>
 
 ###
@@ -56,6 +57,11 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+
 
 </div>
 
