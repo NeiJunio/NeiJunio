@@ -24,25 +24,25 @@
 <hr style="margin: 30px 0;" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" Title="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" Title="React" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Nextjs"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Nextjs" Title="Nextjs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" Title="HTML5" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" Title="CSS3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Nodejs"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Nodejs" Title="Nodejs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" Title="MySQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" Title="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github" Title="Github" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Vscode"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Vscode" Title="Vscode" />
   
   
 </div>
@@ -52,15 +52,15 @@
 <div align="center">
   <h4 align="center">📚 Em Aprendizado: </h3>
 
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Csharp"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Csharp" Title="Csharp" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net" Title="Dot-Net" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" Title="PHP" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" Title="Sqlite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver" Title="SQL Server" />
 
 
 </div>
