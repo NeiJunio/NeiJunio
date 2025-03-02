@@ -4,7 +4,7 @@
 
 <h3 align="left">🎯 Objetivo Profissional</h3>
 
-<p align="left">Atuar na área de tecnologia, com foco no desenvolvimento de sistemas computacionais e interfaces web. Meu objetivo é contribuir no levantamento de requisitos e no desenvolvimento de soluções eficientes e de alta qualidade, utilizando minhas habilidades em programação, modelagem de banco de dados e resolução de problemas técnicos.</p>
+<p align="justify">Atuar na área de tecnologia, com foco no desenvolvimento de sistemas computacionais e interfaces web. Meu objetivo é contribuir no levantamento de requisitos e no desenvolvimento de soluções eficientes e de alta qualidade, utilizando minhas habilidades em programação, modelagem de banco de dados e resolução de problemas técnicos.</p>
 
 ###
 <!-- <hr style="width: 100%;"> -->
