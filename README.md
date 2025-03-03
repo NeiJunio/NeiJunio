@@ -71,10 +71,10 @@
 <h3 align="left">🤝 Habilidades Interpessoais</h3>
 
 <ul>
-  <li><strong>Comunicação Eficaz:</strong> Capacidade de transmitir ideias com clareza e objetividade</li>
-  <li><strong>Resolução de Problemas:</strong> Habilidade em identificar, analisar e solucionar desafios técnicos e organizacionais</li>
-  <li><strong>Trabalho em Equipe:</strong> Experiência em colaborar com diferentes equipes para alcançar objetivos comuns</li>
-  <li><strong>Flexibilidade e Proatividade:</strong> Adaptabilidade a mudanças e iniciativa para resolver demandas rapidamente</li>
+  <li align="justify"><strong>Comunicação Eficaz:</strong> Capacidade de transmitir ideias com clareza e objetividade</li>
+  <li align="justify"><strong>Resolução de Problemas:</strong> Habilidade em identificar, analisar e solucionar desafios técnicos e organizacionais</li>
+  <li align="justify"><strong>Trabalho em Equipe:</strong> Experiência em colaborar com diferentes equipes para alcançar objetivos comuns</li>
+  <li align="justify"><strong>Flexibilidade e Proatividade:</strong> Adaptabilidade a mudanças e iniciativa para resolver demandas rapidamente</li>
 </ul>
 
 ###
