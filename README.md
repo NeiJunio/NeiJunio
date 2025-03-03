@@ -12,10 +12,10 @@
 <h3 align="left">🛠️ Habilidades Técnicas</h3>
 
 <ul>
-  <li><strong>Desenvolvimento FullStack:</strong> HTML5, CSS3, JavaScript, ReactJS, NextJS, NodeJS, MySQL</li>
-  <li><strong>Banco de Dados:</strong> Modelagem e gestão de bancos de dados</li>
-  <li><strong>Ferramentas e Controle de Versão:</strong> Git e GitHub</li>
-  <li><strong>Redes de Computadores e Segurança:</strong> Configuração, gerenciamento e segurança de redes</li>
+  <li align="justify"><strong>Desenvolvimento FullStack:</strong> HTML5, CSS3, JavaScript, ReactJS, NextJS, NodeJS, MySQL</li>
+  <li align="justify"><strong>Banco de Dados:</strong> Modelagem e gestão de bancos de dados</li>
+  <li align="justify"><strong>Ferramentas e Controle de Versão:</strong> Git e GitHub</li>
+  <li align="justify"><strong>Redes de Computadores e Segurança:</strong> Configuração, gerenciamento e segurança de redes</li>
 </ul>
 
 ###
