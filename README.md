@@ -2,9 +2,17 @@
 
 ###
 
+<h3 align="left">👨‍💻 Sobre Mim</h3>
+
+<p align="justify">
+Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de aprendizado contínuo. Minha formação técnica em Desenvolvimento de Sistemas e Redes de Computadores me proporcionou uma base sólida para atuar em todas as etapas do desenvolvimento de software. Tenho experiência em programação, modelagem de bancos de dados e criação de interfaces web intuitivas. Além do conhecimento técnico, sou comunicativo, gosto de resolver problemas e colaborar com equipes para entregar soluções de alta qualidade.
+</p>
+
+###
+<hr style="margin: 30px 0;" />
 <h3 align="left">🎯 Objetivo Profissional</h3>
 
-<p align="justify">Atuar na área de tecnologia, com foco no desenvolvimento de sistemas computacionais e interfaces web. Meu objetivo é contribuir no levantamento de requisitos e no desenvolvimento de soluções eficientes e de alta qualidade, utilizando minhas habilidades em programação, modelagem de banco de dados e resolução de problemas técnicos.</p>
+<p align="justify">Atuar como desenvolvedor fullstack, focado no desenvolvimento de aplicações robustas e escaláveis. Tenho grande interesse em trabalhar com tecnologias modernas para criar sistemas eficientes e interfaces web de alta qualidade. Meu objetivo é contribuir ativamente desde o levantamento de requisitos até a implementação de soluções, utilizando minhas habilidades em programação, modelagem de banco de dados e resolução de problemas técnicos.</p>
 
 ###
 <!-- <hr style="width: 100%;"> -->
