@@ -30,11 +30,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Nextjs" Title="Nextjs" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Nodejs" Title="Nodejs" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" Title="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" Title="CSS3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Nodejs" Title="Nodejs" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" Title="MySQL" />
   <img width="12" />
@@ -43,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github" Title="Github" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Vscode" Title="Vscode" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio" Title="VisualStudio"  />
   
   
 </div>
