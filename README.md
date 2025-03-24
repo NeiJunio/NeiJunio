@@ -96,9 +96,27 @@
 <h3 align="left">📫 Contato</h3>
 
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:neijunio50@gmail.com" target="_blank">neijunio50@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nei-junio-nogueira-gomes/" target="_blank">Nei Junio Nogueira Gomes</a></li>
-  <li><strong>Instagram:</strong> <a href="https://www.instagram.com/neijunio_17" target="_blank">@neijunio_17</a></li>
+  <li>
+    <a href="mailto:neijunio50@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="20" alt="gmail logo" />
+    </a>
+    <strong>Email:</strong>
+    <a href="mailto:neijunio50@gmail.com" target="_blank">neijunio50@gmail.com</a>
+</li>
+<li>
+    <a href="https://www.linkedin.com/in/nei-junio-nogueira-gomes/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="linkedin logo" />
+    </a>
+    <strong>LinkedIn:</strong>
+    <a href="https://www.linkedin.com/in/nei-junio-nogueira-gomes/" target="_blank">Nei Junio Nogueira Gomes</a>
+</li>
+  <li>
+    <a href="https://www.instagram.com/neijunio_17" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo" />
+    </a>
+    <strong>Instagram:</strong>
+    <a href="https://www.instagram.com/neijunio_17" target="_blank">@neijunio_17</a>
+  </li>
 </ul>
 
 ###
