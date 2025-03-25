@@ -5,7 +5,7 @@
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 <p align="justify">
-Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de aprendizado contínuo. Minha formação técnica em Desenvolvimento de Sistemas e Redes de Computadores me proporcionou uma base sólida para atuar em todas as etapas do desenvolvimento de software. Tenho experiência em programação, modelagem de bancos de dados e criação de interfaces web intuitivas. Além do conhecimento técnico, sou comunicativo, gosto de resolver problemas e colaborar com equipes para entregar soluções de alta qualidade.
+Desenvolvedor fullstack com formação em Desenvolvimento de Sistemas e Redes de Computadores. Possui experiência em programação, modelagem de bancos de dados e criação de interfaces web intuitivas. Destaca-se pela comunicação, resolução de problemas e trabalho em equipe.
 </p>
 
 ###
