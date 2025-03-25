@@ -12,7 +12,9 @@ Desenvolvedor fullstack com formação em Desenvolvimento de Sistemas e Redes de
 <hr style="margin: 30px 0;" />
 <h3 align="left">🎯 Objetivo Profissional</h3>
 
-<p align="justify">Atuar como desenvolvedor fullstack, focado no desenvolvimento de aplicações robustas e escaláveis. Tenho grande interesse em trabalhar com tecnologias modernas para criar sistemas eficientes e interfaces web de alta qualidade. Meu objetivo é contribuir ativamente desde o levantamento de requisitos até a implementação de soluções, utilizando minhas habilidades em programação, modelagem de banco de dados e resolução de problemas técnicos.</p>
+<p align="justify">
+Atuar como desenvolvedor fullstack, criando aplicações escaláveis e eficientes com tecnologias modernas e contribuir em todas as etapas do desenvolvimento, aplicando habilidades em programação, modelagem de banco de dados e resolução de problemas.
+</p>
 
 ###
 <!-- <hr style="width: 100%;"> -->
