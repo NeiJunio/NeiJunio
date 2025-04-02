@@ -2,31 +2,42 @@
 
 ###
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
+
+<h3 align="left">🎯 Sobre Mim</h3>
 
 <p align="justify">
-Desenvolvedor fullstack com formação em Desenvolvimento de Sistemas e Redes de Computadores. Possui experiência em programação, modelagem de bancos de dados e criação de interfaces web intuitivas. Destaca-se pela comunicação, resolução de problemas e trabalho em equipe.
+Desenvolvedor Full Stack apaixonado por criar soluções eficientes e escaláveis, sempre em busca de aprimorar minhas habilidades e contribuir com projetos inovadores. Sou formado em Desenvolvimento de Sistemas e Redes de Computadores e tenho experiência na criação de interfaces web responsivas e na modelagem de bancos de dados eficientes. Meu foco é desenvolver soluções que combinam performance, usabilidade e escalabilidade.
 </p>
 
-###
-<hr style="margin: 30px 0;" />
-<h3 align="left">🎯 Objetivo Profissional</h3>
+ - 🚀 Busco sempre aprender novas tecnologias e aprimorar meu código.
 
-<p align="justify">
-Atuar como desenvolvedor fullstack, criando aplicações escaláveis e eficientes com tecnologias modernas e contribuir em todas as etapas do desenvolvimento, aplicando habilidades em programação, modelagem de banco de dados e resolução de problemas.
-</p>
+ - 🤝 Gosto de colaborar com times multidisciplinares e contribuir para projetos open-source.
+
+ - 🎯 Meu objetivo é criar soluções digitais que impactem positivamente o mercado.
+
+ - 🔍 Sempre em busca de melhoria contínua, desenvolvimento ágil e boas práticas de programação.
+
+
 
 ###
 <!-- <hr style="width: 100%;"> -->
 <hr style="margin: 30px 0;" />
 <h3 align="left">🛠️ Habilidades Técnicas</h3>
 
-<ul>
+- 💻 Front-end: HTML, CSS, JavaScript, React, Next.js, TypeScript
+  
+- ⚙️ Back-end: Node.js, PHP, C#, .NET Core
+  
+- 🗂️​ Banco de Dados: MySQL, SQL Server, SQLite
+  
+- 🛠️ Ferramentas: Git, Github, Swagger
+
+<!-- <ul>
   <li align="justify"><strong>Desenvolvimento FullStack:</strong> HTML5, CSS3, JavaScript, ReactJS, NextJS, NodeJS, MySQL</li>
   <li align="justify"><strong>Banco de Dados:</strong> Modelagem e gestão de bancos de dados</li>
   <li align="justify"><strong>Ferramentas e Controle de Versão:</strong> Git e GitHub</li>
   <li align="justify"><strong>Redes de Computadores e Segurança:</strong> Configuração, gerenciamento e segurança de redes</li>
-</ul>
+</ul> --> 
 
 ###
 
@@ -80,14 +91,27 @@ Atuar como desenvolvedor fullstack, criando aplicações escaláveis e eficiente
 ###
 <!-- <hr style="width: 100%;"> -->
 <hr style="margin: 30px 0;" />
-<h3 align="left">🤝 Habilidades Interpessoais</h3>
+<h3 align="left">💡 Habilidades Interpessoais</h3>
 
+- 🗣️ Comunicação Eficaz: Capacidade de transmitir ideias de forma clara e objetiva
+
+- 🛠️ Resolução de Problemas: Análise e solução de desafios técnicos e organizacionais
+
+- 🤝 Trabalho em Equipe: Colaboração ativa para alcançar objetivos comuns
+
+- 🔄 Flexibilidade e Proatividade: Adaptabilidade a mudanças e iniciativa para resolver demandas rapidamente
+
+- ⚡ Engajamento e Responsabilidade: Comprometimento com qualidade, prazos e entregas eficientes
+
+- 🎨 Criatividade: Capacidade de propor soluções inovadoras para desafios técnicos e estratégi
+
+<!--
 <ul>
   <li align="justify"><strong>Comunicação Eficaz:</strong> Capacidade de transmitir ideias com clareza e objetividade</li>
   <li align="justify"><strong>Resolução de Problemas:</strong> Habilidade em identificar, analisar e solucionar desafios técnicos e organizacionais</li>
   <li align="justify"><strong>Trabalho em Equipe:</strong> Experiência em colaborar com diferentes equipes para alcançar objetivos comuns</li>
   <li align="justify"><strong>Flexibilidade e Proatividade:</strong> Adaptabilidade a mudanças e iniciativa para resolver demandas rapidamente</li>
-</ul>
+</ul> -->
 
 ###
 
@@ -105,28 +129,28 @@ Atuar como desenvolvedor fullstack, criando aplicações escaláveis e eficiente
 <hr style="margin: 30px 0;" />
 <h3 align="left">📫 Contato</h3>
 
-<ul>
-  <li>
+- <p>
     <a href="mailto:neijunio50@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="20" alt="gmail logo" />
     </a>
     <strong>Email:</strong>
     <a href="mailto:neijunio50@gmail.com" target="_blank">neijunio50@gmail.com</a>
-</li>
-<li>
+  </p>
+
+- <p>
     <a href="https://www.linkedin.com/in/nei-junio-nogueira-gomes/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="linkedin logo" />
     </a>
     <strong>LinkedIn:</strong>
     <a href="https://www.linkedin.com/in/nei-junio-nogueira-gomes/" target="_blank">Nei Junio Nogueira Gomes</a>
-</li>
-  <li>
+  </p>
+
+- <p>
     <a href="https://www.instagram.com/neijunio_17" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo" />
-    </a>
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo" />
+     </a>
     <strong>Instagram:</strong>
     <a href="https://www.instagram.com/neijunio_17" target="_blank">@neijunio_17</a>
-  </li>
-</ul>
+  </p>
 
 ###
